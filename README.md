@@ -9,10 +9,10 @@
 
 - 📫 How to reach me **kumar.vaibhav6122005@gmail.com**
 
-- ⚡ Fun fact **<span style="font-family: 'Courier New', monospace; font-weight: bold; font-size: 1.2rem; background: linear-gradient(90deg, #ff6f61, #d63384); -webkit-background-clip: text; color: transparent;">
-  Music enthusiast
+- ⚡ Fun fact <span style="font-family: 'Courier New', monospace; font-weight: bold; font-size: 1.2rem; background: linear-gradient(90deg, #ff6f61, #d63384); -webkit-background-clip: text; color: transparent;">
+  **Music enthusiast**
 </span>
-**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
